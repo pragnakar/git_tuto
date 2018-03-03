@@ -9,5 +9,4 @@ class first_class():
 if __name__ == '__main__':
     obj = first_class()
     obj.first_function()
-    obj.function_in_branch()
     print("this is a third branch")
