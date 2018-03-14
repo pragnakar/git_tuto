@@ -17,3 +17,8 @@ if __name__ == '__main__':
     print(ans)
     # adding a comment
     #added a comment from vs code
+
+#%%
+print("hello world")
+a = input('enter a: ')
+print(a)
