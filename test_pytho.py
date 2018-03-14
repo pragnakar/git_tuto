@@ -13,5 +13,5 @@ if __name__ == '__main__':
     obj.first_function()
     print("this is a third branch")
     # push from atom
-    print(obj.third_function())
-    # adding a comment 
+    print(obj.third_function(3,4))
+    # adding a comment
