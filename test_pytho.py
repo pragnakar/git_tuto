@@ -13,6 +13,7 @@ if __name__ == '__main__':
     obj.first_function()
     print("this is a third branch")
     # push from atom
-    print(obj.third_function(3,4))
+    ans = obj.third_function(3,4)
+    print(ans)
     # adding a comment
     #added a comment from vs code
